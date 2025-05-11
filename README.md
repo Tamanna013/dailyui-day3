@@ -8,3 +8,5 @@ A visually striking and responsive landing page for an ice cream brand, built wi
 - **Tailwind CSS** for styling
 - **shadcn/ui** for UI components like carousel, card, and separators
 - **TypeScript** 
+
+![Screenshot](/Screenshot%202025-05-10%20172954.png)
