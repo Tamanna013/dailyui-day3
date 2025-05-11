@@ -10,3 +10,4 @@ A visually striking and responsive landing page for an ice cream brand, built wi
 - **TypeScript** 
 
 ![Screenshot](/Screenshot%202025-05-10%20172954.png)
+![Screenshot](/Screenshot%202025-05-10%20173009.png)
